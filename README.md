@@ -8,7 +8,6 @@ A simple Node.js bot that **automatically commits and pushes random updates** to
 
 - ⏰ Scheduled commits every hour
 - 📝 Randomized commit messages
-- 🔁 Only commits if file content changes
 - 🔒 Supports `main` branch by default
 
 ---
