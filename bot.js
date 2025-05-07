@@ -17,7 +17,7 @@ const message = [
 // create random content - 🥷
 function generateRandomtext () {
     const now = new Date().toISOString();
-    return `Update at: ${now} | 🥷`
+    return `Update at: ${now} | 🥷 ${message}`
 }
 
 // choose rand Commit message
